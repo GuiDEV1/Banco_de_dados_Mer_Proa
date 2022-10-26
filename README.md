@@ -51,3 +51,5 @@ Importante: desse modelo já vamos para a etapa lógica da nossa modelagem!
 </p>
 
  <img src='arquivos/hospital02.png'>
+
+<a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/Hospital.sql">Ver modelo fisico / script</a>
