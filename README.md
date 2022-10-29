@@ -123,6 +123,6 @@ Importante: desse modelo já vamos para a etapa lógica da nossa modelagem!
       Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
    </p>
    
-   <a href = 'https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/hospitalScript2.sql'>Ver modelo fisico / script 3</a>
+   <a href = 'https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/hospital3.sql'>Ver modelo fisico / script 3</a>
  
  
