@@ -103,8 +103,25 @@ Importante: desse modelo já vamos para a etapa lógica da nossa modelagem!
    
    <a href = 'https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/hospitalScript2.sql'>Ver modelo fisico / script 2</a>
    
+   <hr>
+   
+   <h2>A Ordem do Alterar. </h2>
    
    
+   <p>
+        Hummm... 
+       Não... Não acabou... 
+       Um banco de dados pode sofrer alterações ao longo da sua concepção e do seu desenvolvimento. Nesse momento devemos nos preparar para atualizar nossas                  estratégias. 
+   </p>
+   
+   
+   <h3>Mãos a Obra</h3>
+   
+   <p>
+      Pensando no banco que já foi criado para o Projeto do Hospital, realize algumas alterações nas tabelas e nos dados usando comandos de atualização e exclusão:
+      Crie um script que adicione uma coluna “em_atividade” para os médicos, indicando se ele ainda está atuando no hospital ou não. 
+      Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
+   </p>
    
  
  
