@@ -53,3 +53,58 @@ Importante: desse modelo já vamos para a etapa lógica da nossa modelagem!
  <img src='arquivos/hospital02.png'>
 
 <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/Hospital.sql">Ver modelo fisico / script</a>
+
+ <hr>
+ 
+   <h2>3: O Prisioneiro dos Dados </h2
+   
+   <h4>De que serve o banco sem dados?</h4> 
+   <span>Então vamos alimentar o banco! </span> <br><br>
+   
+   
+   <p>
+       Com o banco de dados para o sistema hospitalar completamente montado, é necessário incluir dados para realizar os devidos testes e validar sua viabilidade              quanto ao sistema. Nesta etapa, também é importante realizar a separação de alguns scripts iniciais para o banco, com os dados que serão necessários a um              povoamento inicial do sistema.
+   </p>
+   
+   
+   
+   <p>
+       <h3>Jogando nas regras que você criou:</h3> 
+       Crie scripts de povoamento das tabelas desenvolvidas na atividade anterior
+       Observe as seguintes atividades: 
+   </p>
+   
+   <ul>
+       <li>Inclua ao menos dez médicos de </li>
+       <li>Ao menos sete especialidades (considere a afirmação de que “entre as <br> especialidades há pediatria, clínica geral, gastroenterologia e dermatologia”)            </li>
+       <li>Inclua ao menos 15 pacientes.</li>
+       <li>
+             Registre 20 consultas de diferentes pacientes e diferentes médicos (alguns pacientes realizam mais que uma consulta). As consultas devem ter ocorrido                  entre 01/01/2015 e 01/01/2022. Ao menos dez consultas devem ter receituário com dois ou mais medicamentos.
+       </li>
+       <li>Inclua ao menos quatro convênios médicos, associe ao menos cinco pacientes e cinco consultas.</li>
+       <li>Criar entidade de relacionamento entre médico e especialidade. </li>
+       <li>Criar Entidade de Relacionamento entre internação e enfermeiro. </li>
+       <li>Arrumar a chave estrangeira do relacionamento entre convênio e médico.</li>
+       <li>Criar entidade entre internação e enfermeiro.</li>
+       <li>Colocar chaves estrangeira dentro da internação (Chaves Médico e Paciente).</li>
+       <li>
+           Registre ao menos sete internações. Pelo menos dois pacientes devem ter se internado mais de uma vez. Ao menos três quartos devem ser cadastrados. As                  internações devem ter ocorrido entre 01/01/2015 e 01/01/2022.
+       <li>
+       <li>
+           Considerando que “a princípio o hospital trabalha com apartamentos, quartos duplos e enfermaria”, inclua ao menos esses três tipos com valores diferentes.
+       <li>
+       <liInclua dados de dez profissionais de enfermaria. Associe cada internação a ao menos dois enfermeiros.<li>
+       <li>
+           Os dados de tipo de quarto, convênio e especialidade são essenciais para a operação do sistema e, portanto, devem ser povoados 
+           assim que o sistema for instalado.             
+       </li>
+   </ul>
+   
+   
+   <a href = 'https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/hospitalScript2.sql'>Ver modelo fisico / script 2</a>
+   
+   
+   
+   
+ 
+ 
