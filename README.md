@@ -193,5 +193,19 @@ Consulte a documentação do MySQL (“Date and Time Functions”) para mais inf
 <h4>Certificado</h4>
 
 <img src="arquivos/CertificadoIslandSQL.png">
+
+<br>
+
+<h3>E agora... Vamos achar os culpados!</h3>
+
+<p>
+Muitas formas criativas de criar jogos aparecem de tempos em tempos. 
+Uma boa prática para se desenvolver é trabalhar com um objetivo. 
+Hoje o nosso objetivo é encontrar o culpado. <br>
+Sem falar muito mais, vamos descobrir quem é o culpado desse misterioso mistério. 
+
+ <a href = "https://mystery.knightlab.com/">Jogar?</a>
+</p>
+
  
  
