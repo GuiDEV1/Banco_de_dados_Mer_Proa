@@ -219,5 +219,19 @@ Sem falar muito mais, vamos descobrir quem é o culpado desse misterioso mistér
 </ol>
 
 <img src = 'arquivos/MysterySQL.png'>
+
+<hr>
+
+<h2>É possível contar histórias com um banco de dados?SIM!</h2>
+
+<p>
+E é isso que você vai fazer agora. 
+Mas o banco que vamos usar é uma planilha do Google Sheets. 
+Utilizando uma planilha simples e organizada descreva um evento que tenha acontecido ao longo de décadas (ou séculos). Algo como a construção das pirâmides, a história do seu time de futebol ou a evolução do seu gênero musical preferido. <br>
+Vamos usar essa ferramenta aqui -> http://storyline.knightlab.com/ para dar um toque interativo e dinâmico pra sua escolha. 
+Crie uma página em HTML, estilize como quiser, coloque o iframe com o conteúdo e publique no seu github. :) 
+</p>
+
+<a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/tree/main/scripts/HistoryBackend">Ver codigo?</a>
  
  
