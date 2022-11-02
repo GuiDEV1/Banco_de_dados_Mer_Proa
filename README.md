@@ -150,6 +150,6 @@ Observação 2: podem ser úteis as funções de data do MySQL, como DATEDIFF(da
 Consulte a documentação do MySQL (“Date and Time Functions”) para mais informações.
  </p>
  
- <a>Ver modelo fisico / script 4</a>
+ <a href= "">Ver modelo fisico / script 4</a>
  
  
