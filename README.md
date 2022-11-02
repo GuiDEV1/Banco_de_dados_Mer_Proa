@@ -207,5 +207,17 @@ Sem falar muito mais, vamos descobrir quem é o culpado desse misterioso mistér
  <a href = "https://mystery.knightlab.com/">Jogar?</a>
 </p>
 
+<ol>
+   <li>
+      Quem é o culpado? <br>
+      <strong>Miranda Priestly</strong>
+   </li>
+    <li>
+      Descreva sua experiência para achar o culpado. Foi legal? <br>
+      <strong>Foi bem trabalhosa, tive que buscar muito para achar o verdadeiro culpado, verificar placa do carro cor de cabelo altura, e juntar tabela e usar muitas         wheres. </strong>
+   </li>
+</ol>
+
+<img src = 'arquivos/MysterySQL.png'>
  
  
