@@ -152,4 +152,46 @@ Consulte a documentação do MySQL (“Date and Time Functions”) para mais inf
  
  <a href= "">Ver modelo fisico / script 4</a>
  
+ <hr>
+ 
+ <h2>Banco de Dados & Jogos</h2>
+ <span>Bora jogar e aprender?</span> <br>
+ 
+ 
+ <h4>SQL Island!</h4>
+ <p>
+     Você sobreviveu a um acidente aéreo e caiu em uma ilha. É aqui que começa o jogo. 
+     A ideia é trabalhar códigos em SQL.  <br>   <br>
+     <strong>Topa?</strong> <br>
+     Mas é pra chegar até o fim (se é que tem um fim...). <br>
+     <a href = "https://sql-island.informatik.uni-kl.de/">Jogar ?</a> <br>
+ </p>
+ 
+ <p>
+     Para deixar o jogo em português: <br>
+     A dica é na faixa vermelha, clique no ícone de lista e então clique no terceiro botão. Agora escolha português e divirta-se. 
+     Preste atenção ao tutorial e clique em continuar conforme necessário. Se não houver "continuar", você deverá escrever na caixa de entrada. 
+     Não é necessário é um código super lindo para o jogo funcionar. <br>
+     Não decore código. Aprenda. Código possui várias faces. vários jeitos de escrever. Crie o seu.  
+ </p>
+ 
+ <ol>
+     <li>
+         Qual foi o momento mais complicado do jogo pra você? <br>
+         <strong>A perte que tive q fazer uma junção de tabelas, foi difícil pra mim .</strong>
+     </li>
+     <li>
+         O que você teria feito de diferente nesse jogo? <br>
+         <strong>Teria colocado um sistema de dicas melhor, dando exemplo de códigos.</strong>
+     </li>
+      <li>
+        O que você achou do final do jogo? <br>
+         <strong>Clichê, mas divertido </strong>
+     </li>     
+</ol>
+
+<h4>Certificado</h4>
+
+<img src="arquivos/CertificadoIslandSQL.png">
+ 
  
