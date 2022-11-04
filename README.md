@@ -235,3 +235,60 @@ Crie uma página em HTML, estilize como quiser, coloque o iframe com o conteúdo
 <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/tree/main/scripts/HistoryBackend">Ver codigo?</a>
  
  
+<hr>
+
+<h2>Momento & Seus Funcionários</h2>
+
+<p>
+   A Momento é uma empresa única que faz o melhor que pode para alcançar o melhor da humanidade. 
+   Na sua cabeça... O que a Momento faz? Há alguma empresa que faça algo parecido? <br>
+   E qual o seu ideal de empresa? 
+</p>
+
+ <ol>
+  <li>Inclua suas próprias informações no departamento de tecnologia da empresa.<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+  <li>A administração está sem funcionários. Inclua os outros membros do seu grupo do demoday no departamento de administração.<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+  <li>Agora diga, quantos funcionários temos ao total na empresa?<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+  <li>Quantos funcionários temos no departamento de finanças?<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+   <li>Qual a média salarial do departamento de tecnologia?<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+   <li>Quanto o departamento de Transportes gasta em salários?<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+   <li>Um novo departamento foi criado. O departamento de inovações. Ele será locado no Brasil. Por favor, adicione-o no banco de dados.<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+  <li>Novos Funcionários!<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+  <li>Informe todas as regiões em que a empresa atua acompanhadas de seus países.<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+  <li>Joe Sciarra é filho de quem?<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+ <li>Jose Manuel possui filhos<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+ <li>Qual região possui mais países?<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+ <li>Exiba o nome cada funcionário acompanhado de seus dependentes<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+  <li>Karen Partners possui um cônjuge?<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+  <li>Escolha um país para se mudar. Qual seria esse país? Por que escolheria esse país? E o departamento. O que seria? Como seriam seus funcionários?<br>
+   <a href="https://github.com/GuiDEV1/Banco_de_dados_Mer_Proa/blob/main/scripts/momentoResolucao.sql">Resposta</a>
+ </li>
+</ol>
